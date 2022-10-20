@@ -2,6 +2,18 @@ This is a repository for group 9785-17's ICT Capstone Project on Electricity Dem
 
 For viewing past versions, please request access to private reposoitory. 
 
+# Key Team Members
+1. Viriya Duch Sam | Lead Data Scientist & Scrum Master
+      Bachelor of Software Engineering
+      
+2. Kim Khanh Tran | Machine Learning Engineer
+      Bachelor of Software Engineering
+3. Su Hyun Kim | Data Engineer
+      Bachelor of Software Engineering
+      
+4. Paola Abrogueña | Data Analyst
+      Bachelor of Business Informatics
+
 # Project Description
 As the world has undergone many industrial revolutions and tremendous development, electricity consumption has risen globally over the years to support its industrial growth, increase of automation, and household needs. It is apparent that access to energy resources is imperative for nations’ economic growth. 
 
