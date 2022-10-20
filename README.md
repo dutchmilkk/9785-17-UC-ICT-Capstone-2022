@@ -1,2 +1,9 @@
-# Project Description
 This is a repository for group 9785-17's ICT Capstone Project on Electricity Demand Forecasting with Machine Learning at the University of Canberra. 
+
+# Project Description
+As the world has undergone many industrial revolutions and tremendous development, electricity consumption has risen globally over the years to support its industrial growth, increase of automation, and household needs. It is apparent that access to energy resources is imperative for nations’ economic growth. 
+
+For the energy industry, accurate electricity demand forecasting serves as crucial basis for making informed investment decisions regarding power system planning and operation to determine required resources for economically generating power to the consumers with minimal interruption and risks. Especially after the commencement of the COVID-19 pandemic, which has skewed energy demand trends, there is an urgent need for understanding of future electricity consumption in order to maintain the equilibrium of energy supply and demand in a rapidly changing economy.
+
+Group 9785-17 proposes two machine learning-based algorithms and implementation for short-term load forecasting of 1-day ahead electricity demand. The two models are a Random Forest regressor with application of Recursive Features Elimination (RF-RFE) and a Long Short-term Memory neural network (LSTM). Both models were written in python codes and executed primarily on Jupyter Notebook. Historical demand data from the state of Victoria (from 01 Jan 2015 to 16 Oct 2020) was used in the training and testing of both systems; however, we believe that with slight modifications and re-training, the systems can also be utilised in other Australian electricity markets as well.  The systems may be utilised by entities with interest in balancing the supply and demand of electricity, such as market suppliers and regulatory bodies. 
+
