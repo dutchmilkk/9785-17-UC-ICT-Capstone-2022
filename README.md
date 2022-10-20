@@ -8,13 +8,13 @@ For the energy industry, accurate electricity demand forecasting serves as cruci
 Group 9785-17 proposes two machine learning-based algorithms and implementation for short-term load forecasting of 1-day ahead electricity demand. The two models are a Random Forest regressor with application of Recursive Features Elimination (RF-RFE) and a Long Short-term Memory neural network (LSTM). Both models were written in python codes and executed primarily on Jupyter Notebook. Historical demand data from the state of Victoria (from 01 Jan 2015 to 16 Oct 2020) was used in the training and testing of both systems; however, we believe that with slight modifications and re-training, the systems can also be utilised in other Australian electricity markets as well.  The systems may be utilised by entities with interest in balancing the supply and demand of electricity, such as market suppliers and regulatory bodies. 
 
 # How to Use
-1. Datasets:
-All datasets used in the project can be found in the data.zip file, which contains 3 microsoft excel files for the original data set, clean data, and data with engineered features. 
+1. **Datasets**:
+All datasets used in the project can be found in the **data.zip** file, which contains 3 microsoft excel files for the original data set, clean data, and data with engineered features. 
 
-2. Jupyter Notebook Reports:
+2. **Jupyter Notebook Reports**:
 Four .ipynb files have been provided as project documentation, wherein the first report is the EDAReport.ipynb for initial exploratory data analysis, followed by FeatureEngineering.ipynb, and RF-RFE.ipynb and LSTM.ipynb for modelling tasks. 
 
-Both RF-RFE and LSTM models have been saved as pickle (.pkl) and json (.json and .h5 for weights) files respectively which can be loaded for future usage. These files can be found in models.zip. 
+Both RF-RFE and LSTM models have been saved as pickle (.pkl) and json (.json and .h5 for weights) files respectively which can be loaded for future usage. These files can be found in **models.zip**. 
 
 # Report on Results
 ## Model 1: RF-RFE Regressor
