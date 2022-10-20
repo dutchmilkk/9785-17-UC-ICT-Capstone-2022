@@ -1,4 +1,6 @@
-This is a repository for group 9785-17's ICT Capstone Project on Electricity Demand Forecasting with Machine Learning at the University of Canberra. 
+This is a repository for group 9785-17's ICT Capstone Project on Electricity Demand Forecasting with Machine Learning at the University of Canberra. This repository contains only the final deliverables for the project. 
+
+For viewing past versions, please request access to private reposoitory. 
 
 # Project Description
 As the world has undergone many industrial revolutions and tremendous development, electricity consumption has risen globally over the years to support its industrial growth, increase of automation, and household needs. It is apparent that access to energy resources is imperative for nations’ economic growth. 
