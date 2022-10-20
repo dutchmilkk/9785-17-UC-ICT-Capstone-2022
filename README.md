@@ -4,14 +4,18 @@ For viewing past versions, please request access to private reposoitory.
 
 # Key Team Members
 1. Viriya Duch Sam | Lead Data Scientist & Scrum Master
+      
       Bachelor of Software Engineering
       
 2. Kim Khanh Tran | Machine Learning Engineer
+      
       Bachelor of Software Engineering
 3. Su Hyun Kim | Data Engineer
+      
       Bachelor of Software Engineering
       
 4. Paola Abrogueña | Data Analyst
+      
       Bachelor of Business Informatics
 
 # Project Description
